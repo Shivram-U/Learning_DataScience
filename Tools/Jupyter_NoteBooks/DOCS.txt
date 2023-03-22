@@ -1,0 +1,12 @@
+                                    Jupyter Notebook
+
+            A Note book is used to contain the CODE, its Output and the Documentations all in one file under one page.
+
+    Jupyter Notebook can be created and run from both Python Intrepreter, to execute python code.
+    The Jupyter notebook can store codes other than python and can execute the codes, if the corresponding Compilers and Intrepreters or Execution Environment in the System.
+            Installation:    $ pip install Jupyter
+            Execution:       $ jupyter Notebook
+    The Notebook created is saved as a file in .ipynb format.
+    The Notebook file can also be opened and run through Visual Studio CODE.
+
+    The code in the Notebook can be run only by the Compilers and Intrepreters or Execution Environment in the Current System.
